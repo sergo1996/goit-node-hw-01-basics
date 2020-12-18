@@ -1,0 +1,32 @@
+{
+  "name": "goit-node-hw-01-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "husky": "^4.3.6",
+    "lint-staged": "^10.5.3",
+    "nvm": "0.0.4",
+    "prettier": "^2.2.1",
+    "yargs": "^16.2.0",
+    "yargs-parser": "^16.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergo1996/goit-node-hw-01-basics.git"
+  },
+  "author": "SERHIY <sergijtimcuk1996@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergo1996/goit-node-hw-01-basics/issues"
+  },
+  "homepage": "https://github.com/sergo1996/goit-node-hw-01-basics#readme"
+}
